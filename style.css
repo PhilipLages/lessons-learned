@@ -24,7 +24,23 @@ body {
   width: 200px;
   margin-top: 160px;
 }
-main{
+#content{
   line-height: 24px;
+  max-width: 1300px;  
+}
+#licoes_aprendidas, #licoes_a_aprender{
+  display: inline-block;
+}
+.lado-esquerdo{
+  width: 600px;
+  text-align: justify;
+}
+.lado-direito{
+  width: 300px;
+  text-align: justify;
+  margin-left: 100px;
+}
+.lado-direito, .lado-esquerdo{
+  display: inline-block;
 }
 
