@@ -5,3 +5,8 @@ body {
   position: fixed;
   top: 0;
 }
+#minha_foto{
+  border-radius: 100%;
+  width: 200px;
+  margin-top: 60px;
+}
