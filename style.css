@@ -4,9 +4,22 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
+  background-color: darkblue;
+  color: white;
+  width: 1330px;
+  
+}
+#cabecalho h1{
+  text-align: center;
+}
+#nav a{
+  padding: 10px;
+  background-color: lightblue;
+  border: 2px solid darkblue;
+  border-radius: 100%;
 }
 #minha_foto {
   border-radius: 100%;
   width: 200px;
-  margin-top: 100px;
+  margin-top: 120px;
 }
